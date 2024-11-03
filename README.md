@@ -100,3 +100,16 @@ The following Docker containers are provisioned as part of the media server setu
    git clone https://github.com/bomboozler/docker_automated_media_server
    cd docker_automated_media_server
    ```
+2. Run the following docker compose command:
+   ```
+   docker compose up -d
+   ```
+### Updating all docker images
+1. Stop the docker compose stack:
+   ```
+   docker compose down
+   ```
+2. Pull new images and get it back and running:
+   ```
+   docker compose pull && docker compose up -d
+   ```
