@@ -1,4 +1,4 @@
-# Automated Media Server Provisioning
+# Automated Docker Based Media Server 
 
 This repository contains a fully automated setup for a media server using Docker and Docker Compose. With single docker compose file it provisions a range of applications to create a robust media ecosystem. With a single command, you can deploy the entire environment on a compatible server and have your own automated media server!.
 
