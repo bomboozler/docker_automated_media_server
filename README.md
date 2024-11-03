@@ -98,5 +98,5 @@ The following Docker containers are provisioned as part of the media server setu
 1. Clone the repository:
    ```bash
    git clone https://github.com/bomboozler/docker_automated_media_server
-   cd `docker_automated_media_server
+   cd docker_automated_media_server
    ```
